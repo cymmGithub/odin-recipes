@@ -3,6 +3,7 @@ body {
     min-height: 100vh;
     font-family: 'Dancing Script', sans-serif;
 }
+
 h1 {
     margin-left: 270px;
     font-weight: bold;
@@ -15,21 +16,25 @@ h1 {
     -5px -5px 10px rgb(81,67,21),
     5px -5px 10px rgb(81,67,21);
 }
+
 .Pizza-image {
     height: 350px;
     box-shadow: 0 0 10px;
     margin-left: 50px;
 }
+
 .Lasagna-image {
     height: 350px;
     padding-left: 100px;
     box-shadow: 0 0 10px;
 }
+
 .First-row {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
 }
+
 p {
     font-size: 25px;
     color: white;
@@ -40,6 +45,7 @@ p {
     margin-right: 20px;
     text-align: justify;
 }
+
 .ing {
     margin-left: 130px;
     font-size: 25px;
@@ -48,16 +54,16 @@ p {
     0px 8px 13px rgba(0,0,0,0.1),
     0px 18px 23px rgba(0,0,0,0.1);
 }
+
 li {
     font-size: 20px;
-
 }
 
 .Second-row {
     display: flex;
     flex-direction: row;
-    
 }
+
 .icon {
     margin-left: 100px;
     box-shadow: 0 0 10px;
