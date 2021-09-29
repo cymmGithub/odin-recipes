@@ -2,7 +2,6 @@ body {
     background-image: linear-gradient(to top,#3CA55C, #B5AC49);
     min-height: 100vh;
     font-family: 'Roboto', sans-serif;
-
 }
 
 .heading {
@@ -12,28 +11,28 @@ body {
              0px 8px 13px rgba(0,0,0,0.1),
              0px 18px 23px rgba(0,0,0,0.1);
 }
+
 .img1 {
     height: 300px;
     margin-bottom: 50px;
     box-shadow: 0 0 10px;
 }
+
 .img {
     height: 400px;
-    
-
-    
 }
+
 .recipes {
     display:flex;
     justify-content: center;
     justify-content: space-around;
     text-decoration: none;
+}
 
-}
 .pizza {
-    height: 150px;
-    
+    height: 150px; 
 }
+
 .pizza-text {
     text-decoration: none;
     display: flex;
